@@ -42,7 +42,7 @@
         "id": "dLoc_2",
         "name": "Iselin"
       }
-      
+
     ],
     "ratings": [
       {
@@ -145,7 +145,7 @@
           "description": "Vegetable cyrry with bla bla bla",
           "images": []
         },
-        
+
       ]
     },
     {
@@ -153,23 +153,69 @@
       "name": "Bhaji Pav",
       "position": "0",
       "menu-items": [
-        {
-          "id": "cat_bp_1",
+         {
+ "id": "cat_bp_1",
           "name": "Bhaji Pav",
           "position": 1,
-          "description": "Vegetable curry with bla bla bla",
-          "price": "$10.00",
+          "description": "Vegetable curry with signature spices served with Pav (Bread)",
+          "price": "$8.99",
           "images": []
         },
-        {
-          "id": "cat_bp_2",
+
+ {
+ "id": "cat_bp_2",
           "name": "Cheese Bhaji Pav",
           "position": 2,
-          "description": "Vegetable cyrry with bla bla bla",
-          "price": "$10.00",
+          "description": "Vegetable cyrry with signature spices topped with cheese served with Pav (Bread)",
+          "price": "$9.99"
           "images": []
-        },
-        
+},
+
+ {
+ "id": "cat_bp_3",
+          "name": "Boiled Bhaji Pav",
+          "position": 3,
+          "description": "Steamed Vegetable curry with signature spices served with Pav (Bread)",
+          "price": "$10.99"
+          "images": []
+},
+
+ {
+ "id": "cat_bp_4",
+          "name": "Honest Sp. Bhaji Pav",
+          "position": 4,
+          "description": "Vegerable curry with signature spices, cashew and raisin served with Pav (Bread)",
+          "price": "$9.99"
+          "images": []
+},
+
+ {
+ "id": "cat_bp_5",
+          "name": "Masala Pav mixed with Bhaji",
+          "position": 5,
+          "description": "Pav (Bread) filled with vegetable curry (Bhaji)",
+          "price": "$8.99"
+          "images": []
+},
+
+ {
+ "id": "cat_bp_6",
+          "name": "Cheese Masala Pav mixed with Bhaji",
+          "position": 6,
+          "description": "Pav (Bread) filled with vegetable curry (Bhaji) topped with Cheese",
+          "price": "$9.99"
+          "images": []
+},
+
+ {
+ "id": "cat_bp_7",
+          "name": "Masala Pav Dry",
+          "position": 7,
+          "description": "Pav (Bread) filled with spices",
+          "price": "$5.99"
+          "images": []
+},
+
       ]
     },
     {
@@ -193,10 +239,10 @@
           "price": "$10.00",
           "images": []
         },
-        
+
       ]
     }
-    
+
   ],
   "deals": []
 }
