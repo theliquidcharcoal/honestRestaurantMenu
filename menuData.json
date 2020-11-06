@@ -1,0 +1,202 @@
+{
+  "type": "Restaurant Menu",
+  "restaurant-info": {
+    "id": "001",
+    "name": "Honest Restaurant",
+    "address": "Piscataway, NJ",
+    "rating": "4.50",
+    "minimum-order-price": "300.00",
+    "delivery-fee": "75.00",
+    "avg_delivery_time": "60",
+    "logo": "path to img url",
+    "open-status": "1",
+    "default-ad": "",
+    "review-enabled": "1",
+    "social-share": "0",
+    "value": null,
+    "total-category": "9",
+    "site-url": "",
+    "location-img": "",
+    "payment-methods": [
+      {
+        "id": "1",
+        "type": "Card/Debit Card"
+      },
+      {
+        "id": "3",
+        "type": "bKash"
+      },
+      {
+        "id": "4",
+        "type": "Cash On Delivery"
+      }
+    ],
+    "delivery-types": "0",
+    "tags": [],
+    "deliverable-area": [
+      {
+        "id": "dLoc_1",
+        "name": "Edison"
+      },
+      {
+        "id": "dLoc_2",
+        "name": "Iselin"
+      }
+      
+    ],
+    "ratings": [
+      {
+        "rating": ""
+      }
+    ],
+    "total-food-items": "35",
+    "facebook-like-link": "",
+    "description": "",
+    "restaurant-discount": {
+      "type": "",
+      "value": "0.00"
+    },
+    "restaurant-images": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ]
+  },
+  "restaurant-time-info": {
+    "sat": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "sun": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "mon": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "tue": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "wed": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "thu": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "fri": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ]
+  },
+  "today": "Mon",
+  "working-hours-start": "12:00:00",
+  "working-hours-end": "22:30:00",
+  "categorys": [
+    {
+      "id": "cat_bp",
+      "name": "Bhaji Pav",
+      "position": "0",
+      "menu-items": [
+        {
+          "id": "cat_bp_1",
+          "name": "Bhaji Pav",
+          "position": 1,
+          "description": "Vegetable curry with bla bla bla",
+          "images": [],
+          "sub-items": [
+            {
+              "id": "224471",
+              "name": "3 Chicken Wings",
+              "position": 1,
+              "price": "250.00",
+              "consumable": "1:1",
+              "cuisine_name": "Indian",
+              "category_name": "Appeteasers",
+              "discount": {
+                "type": "",
+                "amount": "0.00"
+              },
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "cat_bp_2",
+          "name": "Cheese Bhaji Pav",
+          "position": 2,
+          "description": "Vegetable cyrry with bla bla bla",
+          "images": []
+        },
+        
+      ]
+    },
+    {
+      "id": "cat_bp",
+      "name": "Bhaji Pav",
+      "position": "0",
+      "menu-items": [
+        {
+          "id": "cat_bp_1",
+          "name": "Bhaji Pav",
+          "position": 1,
+          "description": "Vegetable curry with bla bla bla",
+          "price": "$10.00",
+          "images": []
+        },
+        {
+          "id": "cat_bp_2",
+          "name": "Cheese Bhaji Pav",
+          "position": 2,
+          "description": "Vegetable cyrry with bla bla bla",
+          "price": "$10.00",
+          "images": []
+        },
+        
+      ]
+    },
+    {
+      "id": "cat_plv",
+      "name": "Pulav",
+      "position": "0",
+      "menu-items": [
+        {
+          "id": "cat_plv_1",
+          "name": "Pulav item 1",
+          "position": 1,
+          "description": "Vegetable curry with bla bla bla",
+          "price": "$10.00",
+          "images": []
+        },
+        {
+          "id": "cat_plv_2",
+          "name": "Pulav 2",
+          "position": 2,
+          "description": "Vegetable cyrry with bla bla bla",
+          "price": "$10.00",
+          "images": []
+        },
+        
+      ]
+    }
+    
+  ],
+  "deals": []
+}
