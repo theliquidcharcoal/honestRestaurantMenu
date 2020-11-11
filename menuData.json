@@ -42,7 +42,7 @@
         "id": "dLoc_2",
         "name": "Iselin"
       }
-      
+
     ],
     "ratings": [
       {
@@ -183,11 +183,11 @@
           "catItemDescription": "Vegetable cyrry with bla bla bla",
           "catItemIrice": "$10.00",
           "images": []
-        },
-        
+        }
+
       ]
     }
-    
+
   ],
   "deals": []
 }
