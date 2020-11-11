@@ -111,86 +111,77 @@
   "working-hours-end": "22:30:00",
   "categorys": [
     {
-      "id": "cat_bp",
+      "menuMainCatId": "cat_bp",
       "name": "Bhaji Pav",
       "position": "0",
-      "menu-items": [
+      "menuCatItems": [
         {
-          "id": "cat_bp_1",
-          "name": "Bhaji Pav",
-          "position": 1,
-          "description": "Vegetable curry with bla bla bla",
-          "images": [],
-          "sub-items": [
-            {
-              "id": "224471",
-              "name": "3 Chicken Wings",
-              "position": 1,
-              "price": "250.00",
-              "consumable": "1:1",
-              "cuisine_name": "Indian",
-              "category_name": "Appeteasers",
-              "discount": {
-                "type": "",
-                "amount": "0.00"
-              },
-              "tags": []
-            }
-          ]
+          "catItemId": "cat_bp_1",
+          "catItemName": "Bhaji Pav",
+          "catItemPosition": 1,
+          "catItemDescription": "Vegetable curry with bla bla bla",
+          "catItemImages": []
         },
         {
-          "id": "cat_bp_2",
-          "name": "Cheese Bhaji Pav",
-          "position": 2,
-          "description": "Vegetable cyrry with bla bla bla",
-          "images": []
+          "catItemId": "cat_bp_2",
+          "catItemName": "Cheese Bhaji Pav",
+          "catItemPosition": 2,
+          "catItemDescription": "Vegetable cyrry with bla bla bla",
+          "catItemImages": []
         },
+        {
+          "catItemId": "cat_bp_3",
+          "catItemName": "Honest Sp. Bhaji Pav",
+          "catItemPosition": 3,
+          "catItemDescription": "Vegetable cyrry with bla bla bla",
+          "catItemImages": []
+        }
         
       ]
     },
     {
-      "id": "cat_bp",
-      "name": "Bhaji Pav",
-      "position": "0",
-      "menu-items": [
-        {
-          "id": "cat_bp_1",
-          "name": "Bhaji Pav",
-          "position": 1,
-          "description": "Vegetable curry with bla bla bla",
-          "price": "$10.00",
-          "images": []
-        },
-        {
-          "id": "cat_bp_2",
-          "name": "Cheese Bhaji Pav",
-          "position": 2,
-          "description": "Vegetable cyrry with bla bla bla",
-          "price": "$10.00",
-          "images": []
-        },
-        
-      ]
-    },
-    {
-      "id": "cat_plv",
+      "menuMainCatId": "cat_pulav",
       "name": "Pulav",
-      "position": "0",
-      "menu-items": [
+      "position": "1",
+      "menuCatItems": [
         {
-          "id": "cat_plv_1",
-          "name": "Pulav item 1",
-          "position": 1,
-          "description": "Vegetable curry with bla bla bla",
-          "price": "$10.00",
+          "catItemId": "cat_plv_1",
+          "catItemName": "",
+          "catItemPosition": 1,
+          "catItemDescription": "Vegetable curry with bla bla bla",
+          "catItemIrice": "$10.00",
           "images": []
         },
         {
-          "id": "cat_plv_2",
-          "name": "Pulav 2",
-          "position": 2,
-          "description": "Vegetable cyrry with bla bla bla",
-          "price": "$10.00",
+          "catItemId": "cat_plv_2",
+          "catItemName": "",
+          "catItemPosition": 2,
+          "catItemDescription": "Vegetable cyrry with bla bla bla",
+          "catItemIrice": "$10.00",
+          "images": []
+        }
+        
+      ]
+    },
+    {
+      "menuMainCatId": "cat_sides",
+      "name": "Sides",
+      "position": "2",
+      "menu-items": [
+        {
+          "catItemId": "cat_sides_1",
+          "catItemName": "Extra Pav",
+          "catItemPosition": 1,
+          "catItemDescription": "Vegetable curry with bla bla bla",
+          "catItemIrice": "$10.00",
+          "images": []
+        },
+        {
+          "catItemId": "cat_plv_2",
+          "catItemName": "Pulav 2",
+          "catItemPosition": 2,
+          "catItemDescription": "Vegetable cyrry with bla bla bla",
+          "catItemIrice": "$10.00",
           "images": []
         },
         
