@@ -269,7 +269,48 @@
         }
       ]
     },
-
+      {
+      "menuMainCatId": "cat_SnWich",
+      "name": "Sandwich",
+      "position": "5",
+      "menu-items": [
+      {
+        "catItemId": "cat_SnWich_1",
+          "catItemName": "Aloo Mutter",
+          "catItemPosition": 1,
+          "catItemDescription": "Spicy Potato and Peas, cashews and green chutney",
+          "catItemPriceReg": "$6.99",
+          "catItemPriceGrill": "$7.99",
+          "images": []
+      },
+      {
+        "catItemId": "cat_SnWich_2",
+          "catItemName": "Aloo Mutter Cheese",
+          "catItemPosition": 2,
+          "catItemDescription": "Spicy Potato and peas, cashews and green chutney with Amul Cheese",
+          "catItemPriceReg": "$7.99",
+          "catItemPriceGrill": "$8.99",
+          "images": []
+      },
+      {
+        "catItemId": "cat_SnWich_3",
+          "catItemName": "Vegetable",
+          "catItemPosition": 3,
+          "catItemDescription": "Tomato, Cucumber, and green chutney",
+          "catItemPriceReg": "$6.99",
+          "catItemPriceGrill": "$7.99",
+          "images": []
+      },
+      {
+        "catItemId": "cat_SnWich_4",
+        "catItemName": "Vegetable Cheese",
+        "catItemPosition": 4,
+        "catItemDescription": "Tomato, Cucumber, green chutney and Amul Cheese",
+        "catItemPriceReg": "$7.99",
+        "catItemPriceGrill": "$8.99",
+        "images": []
+      },
+    ]
   ],
   "deals": []
 }
