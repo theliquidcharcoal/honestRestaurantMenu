@@ -184,7 +184,7 @@
           "catItemName": "Cheese Pulav",
           "catItemPosition": 2,
           "catItemDescription": "Pulav topped with generous amount of Amul Cheese",
-          "catItemIrice": "$9.99",
+          "catItemPrice": "$9.99",
           "images": []
         },
         {
@@ -192,7 +192,7 @@
           "catItemName": "Honest Sp. pulav",
           "catItemPosition": 3,
           "catItemDescription": "Pulav with cashews and raisins",
-          "catItemIrice": "$9.99",
+          "catItemPrice": "$9.99",
           "images": []
         }
         
@@ -209,7 +209,7 @@
           "catItemName": "Extra pav",
           "catItemPosition": 1,
           //"catItemDescription":
-          "catItemIrice": "$1.49",
+          "catItemPrice": "$1.49",
           "images": []
         },
         {
@@ -217,7 +217,7 @@
           "catItemName": "Spicy Garlic Chutney",
           "catItemPosition": 2,
           //"catItemDescription": "Vegetable cyrry with bla bla bla",
-          "catItemIrice": "$2.99",
+          "catItemPrice": "$2.99",
           "images": []
         }
 
@@ -233,7 +233,7 @@
           "catItemName": "Amul Butter Vada pav (2 Vada)",
           "catItemPosition": 1,
           "catItemDescription": "Spicy potato dumplings stuffed in Amul Butter toasted Pav",
-          "catItemIrice": "$5.99",
+          "catItemPrice": "$5.99",
           "images": []
         }
       ]
@@ -248,7 +248,7 @@
           "catItemName": "Indian Style Bhakri Pizza",
           "catItemPosition": 1,
           "catItemDescription": "Crunchy flatbread with spicy-tango tomato sauce with onion, Capsicum and amul cheese",
-          "catItemIrice": "$7.99",
+          "catItemPrice": "$7.99",
           "images": []
         },
         {
@@ -256,7 +256,7 @@
           "catItemName": "Double Cheese Pizza",
           "catItemPosition": 2,
           "catItemDescription": "Bhakri Pizza with extra Amul Cheese",
-          "catItemIrice": "$8.99",
+          "catItemPrice": "$8.99",
           "images": []
         },
         {
@@ -264,12 +264,12 @@
           "catItemName": "Honest Special Pizza",
           "catItemPosition": 3,
           "catItemDescription": "Bhakri Pizza with baked Amul Cheese",
-          "catItemIrice": "$8.99",
+          "catItemPrice": "$8.99",
           "images": []
         }
       ]
     },
-    
+
   ],
   "deals": []
 }
