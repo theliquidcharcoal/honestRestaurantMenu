@@ -664,7 +664,7 @@ section#menu-section .menu-box ul.menu-list-items li .list-image span {
   margin: 0;
 }
 section#menu-section .menu-box ul.menu-list-items li .list-content {
-  margin-left: 100px;
+  /* margin-left: 100px; */
   padding-top: 8px;
 }
 section#menu-section .menu-box ul.menu-list-items li .list-content h2 {
@@ -1674,4 +1674,12 @@ footer p.copyright {
   width: 115px;
   height: auto;
 
+}
+
+.list-image {
+  display: none !important;
+}
+
+.d-none {
+  display: none !important;
 }
